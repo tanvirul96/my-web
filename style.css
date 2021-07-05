@@ -1,5 +1,7 @@
 body{font-family: 'Abril Fatface', cursive;
+    
 }
+
 h1{font-size: 50px;margin-left: 20px;}
 h4{font-size: 20px; margin-top: 25px;}
 span{color: rgb(230, 79, 9);}
@@ -12,6 +14,7 @@ p{ font-size: 20px;}
     font-weight: 800;
     border-radius: 5px;
     font-size: 18px;
+    
 }
 section{
     display: flex;
@@ -21,5 +24,5 @@ section{
     padding: 1%;
 }
 .half-width img{
-    width: 70%;
+    width: 80%;
 }
